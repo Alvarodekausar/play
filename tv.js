@@ -1,4 +1,3 @@
-<script>
 function ch1(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/ch1.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';} 
 function ch2(){document.getElementById("tv")
@@ -167,4 +166,4 @@ function jojsport(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/joj-sport.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';}  
 function rtlsport(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/rtlsport.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';}  
-</script>
+
