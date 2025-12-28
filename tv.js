@@ -38,15 +38,15 @@ function ch19(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/ch19.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';}
 function ch20(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/ch20.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';}
-function bein1(){document.getElementById("tv")
+function bein1aus(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/bein1.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';}
-function bein2(){document.getElementById("tv")
+function bein2aus(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/bein2.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';}
-function bein3(){document.getElementById("tv")
+function bein3aus(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/bein3.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';}
-function bein4(){document.getElementById("tv")
+function bein4aus(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/bein3.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';}
-function bein5(){document.getElementById("tv")
+function bein5aus(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/bein3.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';}
 function bt1(){document.getElementById("tv")
 .innerHTML='<iframe src="https://tv.sportsnews.id/p/tnt1.html" allow="encrypted-media" scrolling="no" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';}
